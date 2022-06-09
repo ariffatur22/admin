@@ -1,0 +1,16 @@
+{
+  "name": "example-webserver",
+  "version": "0.1.0",
+  "description": "A simple web server for a simple demonstration",
+  "main": "src/index.js",
+  "repository": "https://github.com/angeloanan/example-webserver.git",
+  "author": "Christopher Angelo <angelo@angeloanan.xyz>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "fastify": "^4.0.0-rc.5"
+  }
+}
